@@ -1,7 +1,7 @@
 ## Hello Everyone!👋
 # The Digital Architect 🏗️
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/swapniltiwaridelhi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Welcome, fellow innovators, to the realm where technology and creativity converge! I am [Your Name], a Solutions Architect driven by an insatiable passion for crafting cutting-edge digital solutions that reshape the boundaries of possibility.
 
@@ -13,7 +13,9 @@ My journey in the ever-evolving digital landscape has been fueled by a relentles
 - 🌱 I'm currently learning about advanced distributed systems architectures and event-driven architectures.
 - 👯 I'm looking to collaborate on open-source projects focused on cloud-native technologies and serverless computing.
 - 🤔 I'm looking for help with optimizing containerized applications for high-performance and scalability.
-
+- 💬 Ask me about cloud migration strategies, microservices architectures, and enterprise integration patterns.
+- 📫 How to reach me: You can connect with me on <a href="https://www.linkedin.com/in/swapniltiwaridelhi">LinkedIn</a> or drop me an email at [learningswapnil247@gmail.com].
+- ⚡ Fun fact: I'm a passionate urban explorer and love discovering the hidden architectural gems of cities around the world!
 
 ## Expertise: The Blueprint for Success 📐
 
@@ -59,17 +61,13 @@ My journey in the ever-evolving digital landscape has been fueled by a relentles
 
 - **Project Cloud Migration**: In this endeavor, I orchestrated a seamless migration of a large-scale enterprise application to the cloud, leveraging cutting-edge cloud technologies and best practices to ensure optimal performance, scalability, and cost-efficiency.
 
-- **Project ERP Integration**: A monumental undertaking where I architected a robust integration solution, seamlessly connecting disparate enterprise systems and enabling streamlined data flow and business process automation.
+- **Project DNS Infrastructure**: A monumental undertaking where I architected a robust and highly available DNS infrastructure in the cloud, enabling seamless domain name resolution, traffic routing, and failover mechanisms for a global enterprise.
 
 - **Project Microservices Platform**: A groundbreaking initiative that saw the transformation of a monolithic application into a scalable and resilient microservices architecture, empowering agility, independent deployment, and efficient resource utilization.
 
-- 💬 Ask me about cloud migration strategies, microservices architectures, and enterprise integration patterns.
-- 📫 How to reach me: You can connect with me on <a href="https://linkedin.com">LinkedIn</a> or drop me an email at [youremail@example.com].
-- ⚡ Fun fact: I'm a passionate urban explorer and love discovering the hidden architectural gems of cities around the world!
-
 Join me in shaping the digital landscape of tomorrow! Let's collaborate and create architectural marvels that push the boundaries of what's possible. 🌐✨
 
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-Let's_Connect-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/swapniltiwaridelhi/"><img src="https://img.shields.io/badge/-Let's_Connect-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 Here are some ideas to get you started:
 
